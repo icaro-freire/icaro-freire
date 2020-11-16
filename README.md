@@ -1,4 +1,12 @@
-### Hi there 👋
+### Vamos pensar juntos?
+
+<p align="center">
+   <img 
+        align = "center" 
+        src   = "/figs/gato-felix.gif"
+   >
+</p>
+
 
 <!--
 **icaro-freire/icaro-freire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
