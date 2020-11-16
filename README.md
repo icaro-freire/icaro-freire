@@ -6,14 +6,29 @@
         src   = "/figs/gato-felix.gif"
    >
 </p>
+
 ---
-<p align="center">
-  <img align="center" src="https://badges.pufler.dev/visits/icaro-freire/icaro-freire">
-  <img align="center" src="https://badges.pufler.dev/repos/icaro-freire">
+
+<p align = "center">
+  <img 
+       align = "center" 
+       alt   = "visitantes" 
+       src   = "https://badges.pufler.dev/visits/icaro-freire/icaro-freire"
+  >
+  <img 
+       align = "center" 
+       alt   = "repositorios" 
+       src   = "https://badges.pufler.dev/repos/icaro-freire"
+  >
 </p>
-<p align="center">
-   <img align="center" src="https://badges.pufler.dev/updated/icaro-freire/icaro-freire"> 
-<\p>
+
+<p align = "center">
+   <img 
+        align = "center" 
+        alt   = "update" 
+        src   = "https://badges.pufler.dev/updated/icaro-freire/icaro-freire"
+   >
+
 
 
 <!--
