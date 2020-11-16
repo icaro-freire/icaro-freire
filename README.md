@@ -16,20 +16,16 @@
        src   = "https://badges.pufler.dev/visits/icaro-freire/icaro-freire"
   >
   <img 
+        align = "center" 
+        alt   = "update" 
+        src   = "https://badges.pufler.dev/updated/icaro-freire/icaro-freire"
+  > 
+  <img 
        align = "center" 
        alt   = "repositorios" 
        src   = "https://badges.pufler.dev/repos/icaro-freire"
   >
 </p>
-
-<p align = "center">
-   <img 
-        align = "center" 
-        alt   = "update" 
-        src   = "https://badges.pufler.dev/updated/icaro-freire/icaro-freire"
-   >
-
-
 
 <!--
 **icaro-freire/icaro-freire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
