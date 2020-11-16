@@ -9,11 +9,9 @@
 ---
 
 <p align="center">
-https://badges.pufler.dev/visits/{icaro-freire}/{icaro-freire}
-
-https://badges.pufler.dev/repos/{icaro-freire}
-
-https://badges.pufler.dev/updated/{icaro-freire}/{icaro-freire}
+  <img align="center" src="https://badges.pufler.dev/visits/icaro-freire/icaro-freire">
+  <img align="center" src="https://badges.pufler.dev/updated/icaro-freire/icaro-freire"> 
+  <img align="center" src="https://badges.pufler.dev/repos/icaro-freire">
 </p>
 
 
