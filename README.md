@@ -6,6 +6,15 @@
         src   = "/figs/gato-felix.gif"
    >
 </p>
+---
+
+<p align="center">
+https://badges.pufler.dev/visits/{icaro-freire}/{icaro-freire}
+
+https://badges.pufler.dev/repos/{icaro-freire}
+
+https://badges.pufler.dev/updated/{icaro-freire}/{icaro-freire}
+</p>
 
 
 <!--
